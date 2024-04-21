@@ -1,1 +1,1 @@
-#
+ The Computer Vision module is a technology that enables computers to "see" and understand images and videos like humans do. It helps them recognize objects, faces, text, track motion, and much more. This opens the door to applications such as security, surveillance, facial recognition, and document scanning. In short, computer vision makes machines capable of understanding and interpreting visual content, making them highly useful in many fields.
